@@ -1,1 +1,1 @@
-# javaspring-project
+# javaspring-student-management-system
